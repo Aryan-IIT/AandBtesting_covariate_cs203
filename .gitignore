@@ -1,0 +1,6 @@
+venv 
+ad_click_dataset.csv
+.DS_store
+drive-download-20250414T115948Z-001/test1.csv
+drive-download-20250414T115948Z-001/test2.csv
+drive-download-20250414T115948Z-001/train.csv
