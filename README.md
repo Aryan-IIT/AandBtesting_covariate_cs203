@@ -15,8 +15,8 @@ This project involves two main tasks:
 ### Part 1: **A/B Testing and Statistical Analysis**  
 - **Objective**: Perform A/B testing on ad data to check if ad position influences user clicks.
 - **Approach**: 
-  - Clean the dataset by handling missing values and converting categorical variables.
-  - Perform an independent two-sample Z-test using the proportions of clicks in Group A (Top ad position) and Group B (Bottom ad position).
+  - Clean the dataset by handling missing values (removing those rows) and converting categorical variables.
+  - Perform an independent two-sample Z-test using the proportions of clicks in Group A (Top ad position) and Group B (Side ad position).
 - **Notebook**: [notebook1.ipynb](notebook1.ipynb)
 
 ### Part 2: **Covariate Shift Detection**  
