@@ -1,5 +1,6 @@
 # AandBtesting_covariate_cs203
 
+Please find the Report/PDF at [Here](23110049_23110237_Assignment_10.pdf).
 ## Project Overview
 
 This project involves two main tasks:
